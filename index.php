@@ -43,15 +43,12 @@ session_start();
                                 <img src="logcss/assets/img/tanskygraphy.png" alt="logo">
                             </a>
                         </div>
-
                         <ul class="social-list">
                             <li>
                                 <a href="http://facebook.com/tanskygraphy" class="facebook-bg">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
-
-
                             <li>
                                 <a href="https://instagram.com/tansky_official" class="instagram-bg">
                                     <i class="fa fa-instagram"></i>
